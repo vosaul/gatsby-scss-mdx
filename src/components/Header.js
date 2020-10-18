@@ -17,6 +17,9 @@ const Header = () => {
           <li>
             <Link to="/page-2/">Page 2</Link>
           </li>
+          <li>
+            <Link to="/new/">MDX page</Link>
+          </li>
         </ul>
       </Container>
     </header>
